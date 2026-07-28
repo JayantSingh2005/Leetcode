@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/JayantSingh2005/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/JayantSingh2005/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/JayantSingh2005/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/JayantSingh2005/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/JayantSingh2005/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/JayantSingh2005/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JayantSingh2005/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/JayantSingh2005/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/JayantSingh2005/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -73,4 +75,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JayantSingh2005/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/JayantSingh2005/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
