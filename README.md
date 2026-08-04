@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0213-house-robber-ii](https://github.com/JayantSingh2005/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0283-move-zeroes](https://github.com/JayantSingh2005/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/JayantSingh2005/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/JayantSingh2005/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/JayantSingh2005/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/JayantSingh2005/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0283-move-zeroes](https://github.com/JayantSingh2005/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
