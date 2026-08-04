@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JayantSingh2005/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/JayantSingh2005/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JayantSingh2005/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3731-find-missing-elements](https://github.com/JayantSingh2005/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JayantSingh2005/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/JayantSingh2005/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [3731-find-missing-elements](https://github.com/JayantSingh2005/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JayantSingh2005/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JayantSingh2005/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/JayantSingh2005/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/JayantSingh2005/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
