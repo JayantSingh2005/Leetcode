@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/JayantSingh2005/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/JayantSingh2005/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JayantSingh2005/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/JayantSingh2005/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/JayantSingh2005/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/JayantSingh2005/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/JayantSingh2005/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
