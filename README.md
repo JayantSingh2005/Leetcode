@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JayantSingh2005/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0213-house-robber-ii](https://github.com/JayantSingh2005/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/JayantSingh2005/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/JayantSingh2005/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JayantSingh2005/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/JayantSingh2005/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0242-valid-anagram](https://github.com/JayantSingh2005/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [3731-find-missing-elements](https://github.com/JayantSingh2005/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## String
@@ -91,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/JayantSingh2005/Leetcode/tree/main/0877-stone-game/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JayantSingh2005/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
