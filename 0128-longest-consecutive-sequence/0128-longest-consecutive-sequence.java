@@ -10,12 +10,11 @@ class Solution {
         {
             if(!(set.contains(i - 1)))
             {
-                int curr = i;
                 count = 1;
-                while(set.contains(curr + 1))
+                while(set.contains(i + count))
                 {
                     count++;
-                    curr++;
+                    
                 }
                 streak = Math.max(streak,count);
             }
