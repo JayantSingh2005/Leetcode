@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/JayantSingh2005/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/JayantSingh2005/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/JayantSingh2005/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/JayantSingh2005/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +107,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JayantSingh2005/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/JayantSingh2005/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
