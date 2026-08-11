@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/JayantSingh2005/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/JayantSingh2005/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/JayantSingh2005/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0739-daily-temperatures](https://github.com/JayantSingh2005/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0877-stone-game](https://github.com/JayantSingh2005/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JayantSingh2005/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1260-shift-2d-grid](https://github.com/JayantSingh2005/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/JayantSingh2005/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0739-daily-temperatures](https://github.com/JayantSingh2005/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,4 +132,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/JayantSingh2005/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/JayantSingh2005/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
