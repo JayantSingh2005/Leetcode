@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/JayantSingh2005/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0242-valid-anagram](https://github.com/JayantSingh2005/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JayantSingh2005/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/JayantSingh2005/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3731-find-missing-elements](https://github.com/JayantSingh2005/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/JayantSingh2005/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/JayantSingh2005/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/JayantSingh2005/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/JayantSingh2005/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/JayantSingh2005/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JayantSingh2005/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sliding Window
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JayantSingh2005/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JayantSingh2005/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/JayantSingh2005/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
