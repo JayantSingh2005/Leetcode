@@ -144,4 +144,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/JayantSingh2005/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JayantSingh2005/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JayantSingh2005/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JayantSingh2005/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JayantSingh2005/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
