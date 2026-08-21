@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/JayantSingh2005/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/JayantSingh2005/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/JayantSingh2005/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/JayantSingh2005/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/JayantSingh2005/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0739-daily-temperatures](https://github.com/JayantSingh2005/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0877-stone-game](https://github.com/JayantSingh2005/Leetcode/tree/main/0877-stone-game/) | Medium |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0198-house-robber](https://github.com/JayantSingh2005/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/JayantSingh2005/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/JayantSingh2005/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0877-stone-game](https://github.com/JayantSingh2005/Leetcode/tree/main/0877-stone-game/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/JayantSingh2005/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/JayantSingh2005/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -135,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/JayantSingh2005/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JayantSingh2005/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/JayantSingh2005/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/JayantSingh2005/Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -183,4 +187,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JayantSingh2005/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/JayantSingh2005/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
