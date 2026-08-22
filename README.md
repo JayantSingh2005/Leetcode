@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JayantSingh2005/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JayantSingh2005/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/JayantSingh2005/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JayantSingh2005/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
