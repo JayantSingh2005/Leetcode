@@ -3,13 +3,15 @@ class Solution {
        int sum = 0, prod = 1, m = n;
        while(m != 0)
        {
-        sum += m % 10;
-        prod *= m % 10;
+        int last = m % 10;
+        sum += last;
+        prod *= last;
         m = m / 10;
        }
-       if(n % (sum + prod) == 0)
+       int total = sum + prod;
+       if(n % total == 0)
        return true;
-       else 
+       
        return false;
 
     }
