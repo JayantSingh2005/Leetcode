@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1539-kth-missing-positive-number](https://github.com/JayantSingh2005/Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/JayantSingh2005/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JayantSingh2005/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/JayantSingh2005/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JayantSingh2005/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/JayantSingh2005/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JayantSingh2005/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/JayantSingh2005/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/JayantSingh2005/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
