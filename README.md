@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/JayantSingh2005/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/JayantSingh2005/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/JayantSingh2005/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/JayantSingh2005/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JayantSingh2005/Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JayantSingh2005/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/JayantSingh2005/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/JayantSingh2005/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/JayantSingh2005/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/JayantSingh2005/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JayantSingh2005/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JayantSingh2005/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/JayantSingh2005/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/JayantSingh2005/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [1903-largest-odd-number-in-string](https://github.com/JayantSingh2005/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/JayantSingh2005/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
