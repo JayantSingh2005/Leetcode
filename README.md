@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/JayantSingh2005/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0198-house-robber](https://github.com/JayantSingh2005/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/JayantSingh2005/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/JayantSingh2005/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/JayantSingh2005/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/JayantSingh2005/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/JayantSingh2005/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/JayantSingh2005/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/JayantSingh2005/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/JayantSingh2005/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/JayantSingh2005/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/JayantSingh2005/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/JayantSingh2005/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0739-daily-temperatures](https://github.com/JayantSingh2005/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/JayantSingh2005/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/JayantSingh2005/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/JayantSingh2005/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JayantSingh2005/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Trie
